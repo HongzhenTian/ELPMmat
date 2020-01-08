@@ -1,0 +1,9 @@
+1  1
+IN.ATOM = atom.config
+JOB = relax
+RELAX_DETAIL = 1 500 0.01 0 0
+IN.PSP1 =  P.SG15.NCPP.PBE.UPF
+Ecut = 50
+Ecut2 = 200
+MP_N123 = 10 8 1 0 0 0
+
